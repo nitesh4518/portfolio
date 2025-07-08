@@ -553,6 +553,7 @@ section.active{
     width: 100%;
     height: 45rem;
     border-radius: 1rem;
+    overflow: hidden;
     
     
 }
